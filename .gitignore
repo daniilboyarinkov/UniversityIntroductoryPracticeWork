@@ -1,0 +1,8 @@
+**/.vs
+**/*.sln
+**/bin
+**/obj
+**/*.csproj
+**/*.csproj.user
+**/.editorconfig
+**/AssemblyInfo.cs
